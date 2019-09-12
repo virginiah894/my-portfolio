@@ -1,3 +1,15 @@
 nav{
-  
+display: inline-block;
+text-align: center;
+}
+#mainnav{
+  font-family: serif;
+  margin: 15px;
+  width: 100%;
+}
+#mainnav>li{
+  display: block;
+  width: 100px;
+  float: left;
+  border: 12px sandybrown;
 }
