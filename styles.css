@@ -11,6 +11,7 @@ padding:10px;
 nav>ul>li{
   display: inline;
   text-decoration: none;
+  font-size:1.3em;
 }
 nav>ul>li>a{
   display:inline-block;
