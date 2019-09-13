@@ -34,4 +34,8 @@ color: darkorchid
 }
 #projects{
   background-color: black;
+  font-size:2em;
+  display: block;
+  padding-top: 2px;
+
 }
