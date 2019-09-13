@@ -1,15 +1,37 @@
 nav{
 display: inline-block;
-text-align: center;
+text-align: right;
+position: fixed;
+width: 100%;
+background-color:#f34573;
+padding:10px;
+
 }
-#mainnav{
-  font-family: serif;
-  margin: 15px;
-  width: 100%;
+
+nav>ul>li{
+  display: inline;
+  text-decoration: none;
 }
-#mainnav>li{
-  display: block;
-  width: 100px;
-  float: left;
-  border: 12px sandybrown;
+nav>ul>li>a{
+  display:inline-block;
+}
+li a:hover{
+color: darkorchid
+
+}
+#intro{
+ font-size:2em;
+  display:flex;
+  flex-direction:row;
+  padding-top: 120px;
+  line-height: 170%;
+}
+#intro>img{
+  padding-right: 20px;
+}
+#about{
+  padding-top: 32px;
+}
+#projects{
+  background-color: black;
 }
