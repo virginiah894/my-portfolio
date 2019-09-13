@@ -50,3 +50,11 @@ color: darkorchid;
 
 }
 
+.fa {
+  width: 20px;
+  padding: 13px;
+  text-align: center;
+  margin: 2px 2px;
+  border-radius:15px solid maroon;
+  box-shadow: 12px12px 12px solid maroon;
+}
