@@ -52,17 +52,24 @@ color: darkorchid;
   color: beige;
 
 }
+h3{
+  text-align: center;
+  color:blue;
+  
+}
 #hobbies{
   display: flex;
   flex-direction: row;
   padding:12px;
   width:100%;
+  color:blue;
+  font-size:1.4em;
 
 }
 #hobbies>img{
-  width:40%;
-  height:40%;
-  border:15px;
+  width:30%;
+  height:30%;
+  border:5px;
 }
 
 .fa {
