@@ -28,21 +28,24 @@ li a:hover{
 color: darkorchid;
 
 }
-#intro{
+#home{
  font-size:2em;
   display:flex;
-  flex-direction:row;
+  flex-direction:column;
   padding-top: 120px;
   line-height: 170%;
 }
-#intro>img{
+#home>img{
   padding-right: 20px;
+  padding-left: 12px;
+  padding-top:-12px;
+
 }
-#about{
-  padding-top: 32px;
+#about me{
+  padding-top: 12px;
 }
 #projects{
-  background-color: black;
+  background-color:#a32f80;
   font-size:2em;
   display: block;
   padding-top: 2px;
@@ -57,4 +60,6 @@ color: darkorchid;
   margin: 2px 2px;
   border-radius:15px solid maroon;
   box-shadow: 12px12px 12px solid maroon;
+  text-align: center;
+  text-decoration: none;
 }
