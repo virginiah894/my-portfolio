@@ -77,11 +77,19 @@ h3{
 .fa {
   width: 20px;
   padding:23px;
-  text-align:center;
   margin: 2px 2px;
-  text-align: center;
   text-decoration: none;
+  color:blue;
+  
+}
+#som{
+  text-align: center;
+}
+#contacts{
+  background-color: brown;
   color:black;
+  font-size:1.5em;
+
 }
 .skills{
   font: outline;
