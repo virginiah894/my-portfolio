@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # {Application Name}
 #### {Brief description of application}, {Date of current version}
 #### By **{List of contributors}**
@@ -20,3 +21,29 @@
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 Copyright (c) {year} **{List of contributors or company name}**
   
+=======
+# my-portfolio
+This is a repository of my first project in prep. I created a Portfolio landing page which is a brief description of myself.
+## Title
+
+my-portfolio.
+## Language
+This webpage is written in english.
+
+## Author
+Virginiah Periah Kengara.
+
+## Description
+this is my first portfolio .It is a summary of myself.
+## project set-up instructions
+The webpage uses basic html and css with a little bootstrap and font awesome.
+
+## Deployment
+The website is available at 
+ https://virginiah894.github.io/my-portfolio/.
+ 
+## Copyright and licensing
+copyright (c) Virginiah Periah 
+## licensing
+This webpage is licenced with MOR LICENSE
+>>>>>>> 591efa6c61a29e42b67596bbbf88e70773ba3123
