@@ -87,7 +87,7 @@ h3{
   background-color: bisque;
 }
 #contacts{
-  background-color: brown;
+  background-color:'#EOEOEO';
   color:black;
   font-size:1.5em;
 
@@ -115,7 +115,7 @@ footer{
   }
 
   div#header {
-      color:white
+      color:white;
       height:193px;
       position:relative ;
   }
