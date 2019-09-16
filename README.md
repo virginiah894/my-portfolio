@@ -11,7 +11,7 @@ Virginiah Periah Kengara.
 
 ## Description
 this is my first portfolio .It is a summary of myself.
-## Styles used
+## project set-up instructions
 The webpage uses basic html and css with a little bootstrap and font awesome.
 
 ## Deployment
@@ -19,6 +19,6 @@ The website is available at
  https://virginiah894.github.io/my-portfolio/.
  
 ## Copyright and licensing
-This webpage is a copyright to Virginiah Periah 
+copyright (c) Virginiah Periah 
 ## licensing
 This webpage is licenced with MOR LICENSE
