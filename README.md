@@ -20,5 +20,5 @@ The website is available at
  
 ## Copyright and licensing
 This webpage is a copyright to Virginiah Periah 
-##licensing
+## licensing
 This webpage is licenced with MOR LICENSE
